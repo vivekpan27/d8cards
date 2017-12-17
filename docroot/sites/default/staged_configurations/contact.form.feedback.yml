@@ -1,4 +1,4 @@
-uuid: d53b5492-8eb6-4251-bc0f-d0fc93d4e26c
+uuid: 633b7483-0d70-49d1-8bf6-baba7de1b3c0
 langcode: en
 status: true
 dependencies: {  }
@@ -7,7 +7,7 @@ _core:
 id: feedback
 label: 'Website feedback'
 recipients:
-  - admin@email.com
+  - admin@d8cards.com
 reply: ''
 weight: 0
 message: 'Your message has been sent.'
