@@ -1,0 +1,12 @@
+<?php
+
+// function paragraph_social_media_theme_mod_theme($existing, $type, $theme, $path) {
+
+// 	return [
+// 		'paragraph__social_media' => [
+// 			'variables' => [
+				
+// 			],
+// 		],
+// 	];
+// }

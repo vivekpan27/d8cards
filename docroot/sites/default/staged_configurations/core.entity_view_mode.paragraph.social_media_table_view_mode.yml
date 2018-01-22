@@ -1,0 +1,10 @@
+uuid: fd440080-3ed1-436c-a875-bd0eb18aec73
+langcode: en
+status: true
+dependencies:
+  module:
+    - paragraphs
+id: paragraph.social_media_table_view_mode
+label: 'Social Media Table View Mode'
+targetEntityType: paragraph
+cache: true

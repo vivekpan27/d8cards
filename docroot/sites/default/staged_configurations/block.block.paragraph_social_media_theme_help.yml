@@ -1,0 +1,22 @@
+uuid: 57af52de-2769-42e1-bd5d-cf662e1b4dfa
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - paragraph_social_media_theme
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: paragraph_social_media_theme_help
+theme: paragraph_social_media_theme
+region: help
+weight: -6
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

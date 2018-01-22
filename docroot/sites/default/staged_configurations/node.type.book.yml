@@ -1,0 +1,17 @@
+uuid: 078c66f7-b725-47a2-a6e8-cc1cc972d374
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Book
+type: book
+description: 'This is the content type for storing book information.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: true

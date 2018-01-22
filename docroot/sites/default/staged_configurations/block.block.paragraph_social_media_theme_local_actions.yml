@@ -1,0 +1,20 @@
+uuid: 951a6116-e5f4-4503-805e-34955836d92b
+langcode: en
+status: true
+dependencies:
+  theme:
+    - paragraph_social_media_theme
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
+id: paragraph_social_media_theme_local_actions
+theme: paragraph_social_media_theme
+region: content
+weight: -4
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  provider: core
+  label_display: '0'
+visibility: {  }

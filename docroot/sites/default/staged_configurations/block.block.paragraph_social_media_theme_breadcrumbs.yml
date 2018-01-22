@@ -1,0 +1,22 @@
+uuid: 17504124-0ec7-4d83-a632-413dc5db8180
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - paragraph_social_media_theme
+_core:
+  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+id: paragraph_social_media_theme_breadcrumbs
+theme: paragraph_social_media_theme
+region: header
+weight: -4
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

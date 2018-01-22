@@ -1,0 +1,22 @@
+uuid: 97dde6ce-91e5-43b4-b3f3-907625a64fcc
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - paragraph_social_media_theme
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
+id: paragraph_social_media_theme_messages
+theme: paragraph_social_media_theme
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }
