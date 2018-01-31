@@ -1,0 +1,13 @@
+uuid: 31386f69-c8d6-4ed8-8282-3557de848fcd
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7adqOL11xc8RNqSZ6riLKGidTE9Y0msDaqZSeD9Z_XM
+name: Example
+type: example_mytype
+description: 'Use <em>example</em> content to get to Drupal 8 development better.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true
