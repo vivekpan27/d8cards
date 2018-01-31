@@ -1,0 +1,4 @@
+access custom_config form:
+  title: 'Custom Permission'
+  description: 'Permission for the custom config form'
+  restrict access: TRUE

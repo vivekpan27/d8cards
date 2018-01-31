@@ -1,0 +1,5 @@
+name: 'Custom Config Form Module'
+description: 'Module creates custom config form and stores values in config'
+type: 'module'
+package: 'Custom'
+core: '8.x'
